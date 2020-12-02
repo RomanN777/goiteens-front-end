@@ -8,12 +8,12 @@ li {
 	padding-top: 20px;
 	padding-bottom: 40px;
 }
-.l1{
+.l{
 	display: inline-block;
 	width: 49%;
 }
-.r1{
+.r{
 	display: inline-block;
 	width: 49%;
-	padding-left: 1.5%;
+	padding-left: 1,5%;
 }
